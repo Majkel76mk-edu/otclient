@@ -1,7 +1,7 @@
 local window = nil
 local selectedEntry = nil
 local consoleEvent = nil
-local taskButton dfgdfgdfgd
+local taskButton dfgdfgdfgdfsfsfgsdfgs
 
 function init()
     connect(g_game, {
